@@ -7,7 +7,7 @@
 </head>
 <body>
     <form action="testingGetAndPost.php" method="post">
-    <label>username:</label><br>
+    <label>username testing:</label><br>
     <input type="text" name="username"><br>
     <label>password:</label><br>
     <input type="password" name="password"><br>
